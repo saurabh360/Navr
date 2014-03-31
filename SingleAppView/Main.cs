@@ -16,6 +16,7 @@ namespace SingleAppView
 			// you can specify it here.
 			UIApplication.Main (args, null, "AppDelegate");
 			//This is test
+			//ffff
 		}
 	}
 }
