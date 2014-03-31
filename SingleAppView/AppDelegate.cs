@@ -25,7 +25,7 @@ namespace SingleAppView
 		public override void OnResignActivation (UIApplication application)
 		{
 		}
-		
+		//test
 		// This method should be used to release shared resources and it should store the application state.
 		// If your application supports background exection this method is called instead of WillTerminate
 		// when the user quits.
